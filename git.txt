@@ -1,0 +1,16 @@
+git init
+
+git add .
+git commit -m
+
+git remote add
+git branch
+
+git push
+
+
+
+git add .
+git commit
+git push
+
